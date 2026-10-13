@@ -2,8 +2,8 @@
 
 **Project ML Analyis**
 
-<img width="700" height="300" alt="Screenshot 2026-10-13 185944" src="https://github.com/user-attachments/assets/93478018-575d-4bb8-9f39-42c8dd92cb17" />
-<img width="700" height="300" alt="Screenshot 2026-10-13 181715" src="https://github.com/user-attachments/assets/b781e6e5-a212-40c8-a724-49abe7f56f86" />
+<img width="300" height="300" alt="Screenshot 2026-10-13 185944" src="https://github.com/user-attachments/assets/93478018-575d-4bb8-9f39-42c8dd92cb17" />
+<img width="700" height="700" alt="Screenshot 2026-10-13 181715" src="https://github.com/user-attachments/assets/b781e6e5-a212-40c8-a724-49abe7f56f86" />
 
 
 A complete academic full-stack web application combining a visual network topology
