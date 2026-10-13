@@ -1,5 +1,10 @@
 # Interactive Network Topology and ML-Based Intrusion Detection System
 
+**Project ML Analyis**
+
+<img width="500" height="300" alt="Screenshot 2026-10-13 181715" src="https://github.com/user-attachments/assets/b781e6e5-a212-40c8-a724-49abe7f56f86" />
+
+
 A complete academic full-stack web application combining a visual network topology
 simulator (inspired by Cisco Packet Tracer) with a machine learning intrusion
 detection pipeline.
