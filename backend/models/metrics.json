@@ -1,0 +1,90 @@
+{
+  "primary_model": "XGBoost Classifier",
+  "classes": [
+    "BENIGN",
+    "BruteForce",
+    "DoS",
+    "NAT_Anomaly",
+    "PortScan"
+  ],
+  "overall_accuracy": 1.0,
+  "weighted_precision": 1.0,
+  "weighted_recall": 1.0,
+  "weighted_f1": 1.0,
+  "confusion_matrix": [
+    [
+      500,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      50,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      100,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      60,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      90
+    ]
+  ],
+  "per_class": {
+    "BENIGN": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "support": 500
+    },
+    "BruteForce": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "support": 50
+    },
+    "DoS": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "support": 100
+    },
+    "NAT_Anomaly": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "support": 60
+    },
+    "PortScan": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "support": 90
+    }
+  },
+  "class_counts": {
+    "BENIGN": 2500,
+    "DoS": 500,
+    "PortScan": 450,
+    "NAT_Anomaly": 300,
+    "BruteForce": 250
+  }
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "feature": "Total_Length_of_Fwd_Packets",
+    "importance": 0.1114
+  },
+  {
+    "feature": "Bwd_Packet_Length_Max",
+    "importance": 0.08388
+  },
+  {
+    "feature": "Fwd_URG_Flags",
+    "importance": 0.08217
+  },
+  {
+    "feature": "Bwd_Packet_Length_Std",
+    "importance": 0.08152
+  },
+  {
+    "feature": "Fwd_Header_Length",
+    "importance": 0.08062
+  },
+  {
+    "feature": "Bwd_Packet_Length_Min",
+    "importance": 0.07938
+  },
+  {
+    "feature": "Bwd_URG_Flags",
+    "importance": 0.06845
+  },
+  {
+    "feature": "Bwd_Packets_s",
+    "importance": 0.0654
+  },
+  {
+    "feature": "Total_Fwd_Packets",
+    "importance": 0.05444
+  },
+  {
+    "feature": "Idle_Std",
+    "importance": 0.05334
+  },
+  {
+    "feature": "URG_Flag_Count",
+    "importance": 0.03931
+  },
+  {
+    "feature": "Bwd_IAT_Std",
+    "importance": 0.02314
+  },
+  {
+    "feature": "Flow_Duration",
+    "importance": 0.02163
+  },
+  {
+    "feature": "Fwd_Packet_Length_Min",
+    "importance": 0.02161
+  },
+  {
+    "feature": "Fwd_IAT_Total",
+    "importance": 0.01885
+  },
+  {
+    "feature": "Idle_Mean",
+    "importance": 0.01642
+  },
+  {
+    "feature": "Fwd_Packet_Length_Max",
+    "importance": 0.01301
+  },
+  {
+    "feature": "Subflow_Fwd_Packets",
+    "importance": 0.01163
+  },
+  {
+    "feature": "Destination_Port",
+    "importance": 0.01058
+  },
+  {
+    "feature": "Total_Backward_Packets",
+    "importance": 0.00916
+  },
+  {
+    "feature": "Bwd_Header_Length",
+    "importance": 0.00717
+  },
+  {
+    "feature": "Packet_Length_Max",
+    "importance": 0.00648
+  },
+  {
+    "feature": "Bwd_IAT_Max",
+    "importance": 0.00621
+  },
+  {
+    "feature": "Init_Win_bytes_forward",
+    "importance": 0.00415
+  },
+  {
+    "feature": "Subflow_Bwd_Packets",
+    "importance": 0.00401
+  }
+]

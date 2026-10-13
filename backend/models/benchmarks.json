@@ -1,0 +1,28 @@
+{
+  "models": [
+    {
+      "name": "XGBoost (Class-Weighted)",
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "is_primary": true
+    },
+    {
+      "name": "Random Forest (Balanced)",
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "is_primary": false
+    },
+    {
+      "name": "Decision Tree (Balanced)",
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "is_primary": false
+    }
+  ]
+}
